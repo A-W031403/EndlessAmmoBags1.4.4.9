@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Uv4xOcIGZomFyq1Lyy3BBTSZYYWONmK8ko2jOblMR58qPeWI+2E04bwZhPBHlexhUYU125N/ljbjDmA1c8gAag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adamw\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\EndlessAmmoBags\\EndlessAmmoBags.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adamw\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
