@@ -1,3 +1,0 @@
-displayName = Endless Ammo Bags (1.4.4.9)
-author = UnVoicingCow
-version = 1.4
