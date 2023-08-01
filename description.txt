@@ -47,6 +47,8 @@ Open to adding more vanilla ammo types (and modded, if its easy enough).
 
 Enjoy :)
 
+If you would like to modify this yourself, I will try to update this repository often: https://github.com/A-W031403/EndlessAmmoBags1.4.4.9
+
 Changelog:
 
 v1.0 - Ported mod to 1.4.4.9 and added tooltips
@@ -61,3 +63,5 @@ v1.3 - Added Endless Fallen Star Pouch
 v1.3.1 - Star Pouch is now crafted with 1500 stars, however, it requires the crystal ball & therefore hardmode. Will probably look into making a config which will easily allow editing how many of each item is required. Ideally setting it to max would disable that item.
 
 v1.4 - Rocket Tiers I, II, III, IV added. Endless Gel Tank Added. ToDo: Configuration/settings menu, add Celebration Mk.II support, add more endless projectile bags for misc ammos
+
+v1.4.1 - Added a public repository
