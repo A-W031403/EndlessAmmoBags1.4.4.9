@@ -65,3 +65,5 @@ v1.3.1 - Star Pouch is now crafted with 1500 stars, however, it requires the cry
 v1.4 - Rocket Tiers I, II, III, IV added. Endless Gel Tank Added. ToDo: Configuration/settings menu, add Celebration Mk.II support, add more endless projectile bags for misc ammos
 
 v1.4.1 - Added a public repository
+
+v1.4.2 - Added a variation of basic endless bag crafting to also be available at worchbench. I noticed an issue where the endless star bag doesn't cause stars to bounce off bosses in For the Worthy; I'll try to fix this if possible.
