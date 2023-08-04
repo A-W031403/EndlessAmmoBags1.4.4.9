@@ -19,24 +19,11 @@ namespace EndlessAmmoBags.Content.Ammunition.Misc
             Item.value = Item.sellPrice(0, 2, 0, 0);
             Item.width = 26;
             Item.height = 34;
-            Item.ammo = AmmoID.Gel;
-
-            if (Item.type == ItemID.Flamethrower)
-            {
-                Item.shoot = ProjectileID.Flames;
-                Item.shootSpeed = 0f;
-                Item.damage = -1;
-                Item.knockBack = 0f;
-            } 
-
-            if (Item.type == ItemID.ElfMelter)
-            {
-                Item.shoot = ProjectileID.Flames;
-                Item.shootSpeed = 0f;
-                Item.damage = -1;
-                Item.knockBack = 0f;
-            }
-
+            Item.ammo = AmmoID.Gel; 
+            Item.shoot = ProjectileID.Flames;
+            Item.shootSpeed = 0f;
+            Item.damage = -1;
+            Item.knockBack = 0f;
         }
 
         public override void AddRecipes()

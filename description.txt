@@ -7,47 +7,39 @@ Just bring 4,000 of your favorite arrow or bullet to any workbench and let the g
 Supported Ammo Types:
 
 	Endless Arrow Quivers:
-		-Bone
-		-Chlorophyte
-		-Cursed
-		-Frostburn
-		-Holy
-		-Ichor
-		-Luminite
-		-Venom
-		-Flaming
-		-Hellfire
-		-Jester
-		-UnHoly
+		-All vanilla arrow types
+			- Including Shimmer (new)
 
 	Endless Bullet Pouches:
-		-Chlorophyte
-		-Crystal
-		-Cursed
-		-Exploding
-		-Golden
-		-High Velocity
-		-Ichor
-		-Luminite
-		-Meteor
-		-Nano
-		-Party
-		-Silver
-		-Venom
-		-Tungsten
-		-Fallen Star
+		-All vanilla bullet types including fallen stars
 
 	Other Endless Ammos:
-		-Endless Gel Tank (new)
+		-Endless Gel Tank
 		-Endless Rocket Pouch (Tiers I, II, III, & IV)
-			**** None of these 4 will work with the Celebration Mk.II; I know why but can't figure out how to fix it yet.
-				 Not sure if it will be unstable, avoid trying :)
+			**** None of these 4 will work with the Celebration Mk.II; I know why but can't figure out how to fix it yet. Not sure if it will be unstable, avoid trying :)
+		-(new) Endless Cluster Rocket Pouch (I & II)
+		-(new) Endless Liquid Rockets (Lava, Water, Honey, Dry) Pouch
+		-(new) Endless Mini Nuke Pouch (I & II)
+		-(new) Endless Clentaminator Solution Tanks (All 8; the new 3 won't show sprites but still work)
+		-(new) Bottomless Candy Corn Bag
+		-(new) Bottomless Nail Gun Clip
+		-(new) Bottomless Stake Bag
+		-(new) Bottomless Explosive Jack O' Lantern Bag
+		-(new) Bottomless Stynger Bag
+		-(new) Bottomless Flare Bags (All types)
+		-(new) Infinitely Dense Snowball
+		-(new) Infinitely Dense Sand Block (All sand types convert to normal sand block in the pouch recipe)
 
-Open to adding more vanilla ammo types (and modded, if its easy enough).
+
+Open to adding modded ammos if I can figure it out. Also open to adding some or all infinite consumables. I added a number of things this time, I would appreciate comments on any issues you find :)
+
+Loose ToDo: In-game config, Celeb2 support, New Clentam Solutions show sprites, Fix up some textures
 
 Enjoy :)
 
+
 If you would like to modify this yourself, I will try to update this repository often: https://github.com/A-W031403/EndlessAmmoBags1.4.4.9
+
 
 Changelog:
 
@@ -67,3 +59,5 @@ v1.4 - Rocket Tiers I, II, III, IV added. Endless Gel Tank Added. ToDo: Configur
 v1.4.1 - Added a public repository
 
 v1.4.2 - Added a variation of basic endless bag crafting to also be available at worchbench. I noticed an issue where the endless star bag doesn't cause stars to bounce off bosses in For the Worthy; I'll try to fix this if possible.
+
+v1.5 - Added an endless/bottomless item for all ammunition types (except ale), including Clen. Solutions. There is an already known issue with the yellow, white, and brown solutions where the sprite for the projectile(s) doesn't appear; They still work, just no sprite. I have no idea why :)

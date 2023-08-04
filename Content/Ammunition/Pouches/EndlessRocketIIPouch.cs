@@ -14,7 +14,7 @@ namespace EndlessAmmoBags.Content.Ammunition.Pouches
 
         public override void SetDefaults()
         {
-            //Item.shootSpeed = 0f;
+            Item.shootSpeed = 0f;
             Item.shoot = ProjectileID.Shuriken;
             Item.damage = 40;
             Item.width = 26;

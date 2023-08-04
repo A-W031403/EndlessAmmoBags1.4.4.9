@@ -228,7 +228,7 @@ Items: {
 		DisplayName: Endless Tungsten Pouch
 		Tooltip:
 			'''
-			'19.3 grams per cubic centimeter of cold, hard, and surprisingly green pain!'
+			'19.3 Grams Per Cubic Centimeter Of Cold, Hard, And, Surprisingly-Green Pain!'
 			An endless pouch of tungsten bullets
 			'''
 	}
@@ -245,8 +245,8 @@ Items: {
 	EndlessRocketIPouch: {
 		Tooltip:
 			'''
-			Small; won't break tiles
-			Will not work with Celebration Mk. II
+			Small; won't break tiles; Will not work with Celebration Mk. II
+			An endless pouch of rocket I's
 			'''
 		DisplayName: Endless Rocket I Pouch
 	}
@@ -254,8 +254,9 @@ Items: {
 	EndlessRocketIIPouch: {
 		Tooltip:
 			'''
-			Small; will break tiles
-			Will not work with Celebration Mk. II
+			Small; will break tiles; Will not work with Celebration Mk. II
+			An endless pouch of rocket II's
+			         
 			'''
 		DisplayName: Endless Rocket II Pouch
 	}
@@ -263,22 +264,27 @@ Items: {
 	EndlessRocketIIIPouch: {
 		Tooltip:
 			'''
-			Large; won't break tiles
-			Will not work with Celebration Mk. II
+			Large; won't break tiles; Will not work with Celebration Mk. II
+			An endless pouch of rocket III's
+			         
 			'''
 		DisplayName: Endless Rocket III Pouch
 	}
 
 	EndlessGelTank: {
-		Tooltip: Oozing with the blood of your slimy enemies!
+		Tooltip:
+			'''
+			'Oozing with the blood of your slimy enemies!'
+			An endless tank of gel
+			'''
 		DisplayName: Endless Gel Tank
 	}
 
 	EndlessRocketIVPouch: {
 		Tooltip:
 			'''
-			Large; will break tiles
-			Will not work with Celebration Mk. II
+			Large; will break tiles; Will not work with Celebration Mk. II
+			         An endless pouch of rocket IV's
 			'''
 		DisplayName: Endless Rocket IV Pouch
 	}
@@ -286,6 +292,321 @@ Items: {
 	EndlessRocketIPouchTEST: {
 		Tooltip: Don't use; testing for Celeb2 functionality
 		DisplayName: Endless TEST Pouch
+	}
+
+	EndlessClusterIPouch: {
+		Tooltip:
+			'''
+			Won't break tiles
+			An endless bag of Cluster I rockets
+			'''
+		DisplayName: Endless Cluster Rocket I Pouch
+	}
+
+	EndlessClusterIIPouch: {
+		Tooltip:
+			'''
+			Will break tiles
+			An endless bag of Cluster II rockets
+			'''
+		DisplayName: Endless Cluster Rocket II Pouch
+	}
+
+	EndlessWaterRocketPouch: {
+		Tooltip:
+			'''
+			Explodes into Water on impact
+			An endless bag of Water rockets
+			'''
+		DisplayName: Endless Water Rocket Pouch
+	}
+
+	EndlessLavaRocketPouch: {
+		Tooltip:
+			'''
+			Explodes into Lava on impact
+			An endless bag of Lava rockets
+			'''
+		DisplayName: Endless Lava Rocket Pouch
+	}
+
+	EndlessHoneyRocketPouch: {
+		Tooltip:
+			'''
+			Explodes into Honey on impact
+			An endless bag of Honey rockets
+			'''
+		DisplayName: Endless Honey Rocket Pouch
+	}
+
+	EndlessMiniNukeIPouch: {
+		Tooltip:
+			'''
+			Won't destroy tiles
+			An endless bag of mini nuke I's
+			'''
+		DisplayName: Endless Mini Nuke I Pouch
+	}
+
+	EndlessMiniNukeIIPouch: {
+		Tooltip:
+			'''
+			Will destroy tiles
+			An endless bag of mini nuke II's
+			'''
+		DisplayName: Endless Mini Nuke II Pouch
+	}
+
+	EndlessDryRocketPouch: {
+		Tooltip:
+			'''
+			Absorbs liquids on impact
+			An endless bag of liquid-absorbing rockets
+			'''
+		DisplayName: Endless Dry Rocket Pouch
+	}
+
+	EndlessShimmerQuiver: {
+		Tooltip:
+			'''
+			Falls upwards
+			'SHHHIMMA!'
+			'''
+		DisplayName: Endless Shimmer Quiver
+	}
+
+	EndlessSeedBag: {
+		Tooltip:
+			'''
+			'Blow Me!'
+			An endless bag of seeds
+			'''
+		DisplayName: Endless Seed Bag
+	}
+
+	EndlessPoisonDartBag: {
+		Tooltip:
+			'''
+			'Now Made With The Venom Of A Million Scorpions!'
+			An endless bag of poison darts
+			'''
+		DisplayName: Endless Poison Dart Bag
+	}
+
+	EndlessIchorDartBag: {
+		Tooltip:
+			'''
+			'Armor? Never Heard Of It!'
+			An endless bag of ichor darts
+			'''
+		DisplayName: Endless Ichor Dart Bag
+	}
+
+	EndlessCursedDartBag: {
+		Tooltip:
+			'''
+			'Avada Kedavra!'
+			An endless bag of cursed darts
+			'''
+		DisplayName: Endless Cursed Dart Bag
+	}
+
+	EndlessCrystalDartBag: {
+		Tooltip:
+			'''
+			'Fragile! Do Not Throw!'
+			An endless bag of crystal darts
+			'''
+		DisplayName: Endless Crystal Dart Bag
+	}
+
+	InfinitelyDenseSnowball: {
+		DisplayName: Infinitely Dense Snowball
+		Tooltip:
+			'''
+			'How The Hell Are You Holding This!?'
+			An infintely dense snowball
+			'''
+	}
+
+	BottomlessCandyCornBag: {
+		DisplayName: Bottomless Candy Corn Bag
+		Tooltip:
+			'''
+			'Trick Or Treat, Bitch!'
+			A bottomless bag of candycorn
+			'''
+	}
+
+	BottomlessNailClip: {
+		DisplayName: Bottomless Nail Clip
+		Tooltip:
+			'''
+			'Someone Warm Jesus!'
+			A bottomless nail gun clip
+			'''
+	}
+
+	EndlessJackOLanternBag: {
+		DisplayName: Endless Jack O Lantern Bag
+		Tooltip:
+			'''
+			'It's Your Turn To Get Carved!'
+			A bottomless bag of explosive jack o' lanterns
+			'''
+	}
+
+	EndlessBlueFlareBag: {
+		DisplayName: Endless Blue Flare Bag
+		Tooltip:
+			'''
+			'Da-Ba-Dee-Da-Ba-Di!'
+			A bottomless bag of blue flares
+			'''
+	}
+
+	EndlessCursedFlareBag: {
+		DisplayName: Endless Cursed Flare Bag
+		Tooltip:
+			'''
+			'I Put A Spell On You!'
+			A bottomless bag of cursed flares
+			'''
+	}
+
+	EndlessFlareBag: {
+		DisplayName: Endless Flare Bag
+		Tooltip:
+			'''
+			'You Wouldn't Dream Of Using Me To Hit The Projectile Cap!'
+			A bottomless bag of flares
+			'''
+	}
+
+	EndlessRainbowFlareBag: {
+		DisplayName: Endless Rainbow Flare Bag
+		Tooltip:
+			'''
+			'Light Your Way In Seven Colors!'
+			A bottomless bag of rainbow flares
+			'''
+	}
+
+	EndlessShimmerFlareBag: {
+		DisplayName: Endless Shimmer Flare Bag
+		Tooltip:
+			'''
+			'Why Did You Make This!?'
+			A bottomless bag of shimmer flares
+			'''
+	}
+
+	EndlessSpelunkerFlareBag: {
+		DisplayName: Endless Spelunker Flare Bag
+		Tooltip:
+			'''
+			'SHOW ME THE MONEY!!'
+			A bottomless bag of spelunker flares
+			'''
+	}
+
+	BottomlessStyngerBag: {
+		DisplayName: Bottomless Stynger Bag
+		Tooltip:
+			'''
+			'Heartbreak Stings, But So Do I!'
+			A bottomless bag of styngers
+			'''
+	}
+
+	EndlessBlueSolutionTank: {
+		DisplayName: Endless Blue Solution Tank
+		Tooltip:
+			'''
+			'Hallow-ed Be Thy Name!'
+			A bottomless tank of blue solution
+			'''
+	}
+
+	EndlessBrownSolutionTank: {
+		DisplayName: Endless Brown Solution Tank
+		Tooltip:
+			'''
+			'You Dirty Bitch!'
+			A bottomless tank of brown solution
+			'''
+	}
+
+	EndlessDarkBlueSolutionTank: {
+		DisplayName: Endless Dark Blue Solution Tank
+		Tooltip:
+			'''
+			'Have A Good Trip!'
+			A bottomless tank of dark blue solution
+			'''
+	}
+
+	EndlessGreenSolutionTank: {
+		DisplayName: Endless Green Solution Tank
+		Tooltip:
+			'''
+			'Begone, Satan!'
+			A bottomless tank of green solution
+			'''
+	}
+
+	EndlessPurpleSolutionTank: {
+		DisplayName: Endless Purple Solution Tank
+		Tooltip:
+			'''
+			'More Pure Than The Catholic Church!'
+			A bottomless tank of purple solution
+			'''
+	}
+
+	EndlessRedSolutionTank: {
+		DisplayName: Endless Red Solution Tank
+		Tooltip:
+			'''
+			'Could Be Confusing!'
+			A bottomless tank of red solution
+			'''
+	}
+
+	EndlessWhiteSolutionTank: {
+		DisplayName: Endless White Solution Tank
+		Tooltip:
+			'''
+			'Where's My Super Suit!?'
+			A bottomless tank of white solution
+			'''
+	}
+
+	EndlessYellowSolutionTank: {
+		DisplayName: Endless Yellow Solution Tank
+		Tooltip:
+			'''
+			'Drier Than Ben Shapiro's Wife!'
+			A bottomless tank of yellow solution
+			'''
+	}
+
+	BottomlessStakeBag: {
+		DisplayName: Bottomless Stake Bag
+		Tooltip:
+			'''
+			'Watch Out, Nandor!'
+			A bottomless bag of stakes
+			'''
+	}
+
+	InfinitelyDenseSandBlock: {
+		DisplayName: Infinitely Dense Sand Block
+		Tooltip:
+			'''
+			'Seriously! This Really Shouldn't Be Possible!'
+			An infintely dense block of sand
+			'''
 	}
 }
 

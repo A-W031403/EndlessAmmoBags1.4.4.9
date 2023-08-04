@@ -8,16 +8,54 @@
     <LangVersion>latest</LangVersion>
   </PropertyGroup>
   <ItemGroup>
+    <None Remove="Content\Ammunition\ClenSolus\EndlessBlueSolutionTank.png" />
+    <None Remove="Content\Ammunition\ClenSolus\EndlessBrownSolutionTank.png" />
+    <None Remove="Content\Ammunition\ClenSolus\EndlessDarkBlueSolutionTank.png" />
+    <None Remove="Content\Ammunition\ClenSolus\EndlessGreenSolutionTank.png" />
+    <None Remove="Content\Ammunition\ClenSolus\EndlessPurpleSolutionTank.png" />
+    <None Remove="Content\Ammunition\ClenSolus\EndlessRedSolutionTank.png" />
+    <None Remove="Content\Ammunition\ClenSolus\EndlessWhiteSolutionTank.png" />
+    <None Remove="Content\Ammunition\ClenSolus\EndlessYellowSolutionTank.png" />
+    <None Remove="Content\Ammunition\Misc\BottomlessCandyCornBag.png" />
+    <None Remove="Content\Ammunition\Misc\BottomlessNailClip.png" />
+    <None Remove="Content\Ammunition\Misc\BottomlessStakeBag.png" />
+    <None Remove="Content\Ammunition\Misc\BottomlessStyngerBag.png" />
+    <None Remove="Content\Ammunition\Misc\EndlessBlueFlareBag.png" />
+    <None Remove="Content\Ammunition\Misc\EndlessCrystalDartBag.png" />
+    <None Remove="Content\Ammunition\Misc\EndlessCursedDartBag.png" />
+    <None Remove="Content\Ammunition\Misc\EndlessCursedFlareBag.png" />
+    <None Remove="Content\Ammunition\Misc\EndlessFlareBag.png" />
     <None Remove="Content\Ammunition\Misc\EndlessGelTank.png" />
+    <None Remove="Content\Ammunition\Misc\EndlessIchorDartBag.png" />
+    <None Remove="Content\Ammunition\Misc\EndlessJackOLanternBag.png" />
+    <None Remove="Content\Ammunition\Misc\EndlessPoisonDartBag.png" />
+    <None Remove="Content\Ammunition\Misc\EndlessRainbowFlareBag.png" />
+    <None Remove="Content\Ammunition\Misc\EndlessSeedBag.png" />
+    <None Remove="Content\Ammunition\Misc\EndlessShimmerFlareBag.png" />
+    <None Remove="Content\Ammunition\Misc\EndlessSpelunkerFlareBag.png" />
+    <None Remove="Content\Ammunition\Misc\InfinitelyDenseSandBlock.png" />
+    <None Remove="Content\Ammunition\Misc\InfinitelyDenseSnowball.png" />
     <None Remove="Content\Ammunition\ModAmmos\TungstenAmmoProjectile.png" />
+    <None Remove="Content\Ammunition\Pouches\EndlessClusterIIPouch.png" />
+    <None Remove="Content\Ammunition\Pouches\EndlessClusterIPouch.png" />
+    <None Remove="Content\Ammunition\Pouches\EndlessDryRocketPouch.png" />
     <None Remove="Content\Ammunition\Pouches\EndlessFallenStarPouch.png" />
+    <None Remove="Content\Ammunition\Pouches\EndlessHoneyRocketPouch.png" />
+    <None Remove="Content\Ammunition\Pouches\EndlessLavaRocketPouch.png" />
+    <None Remove="Content\Ammunition\Pouches\EndlessMiniNukeIIPouch.png" />
+    <None Remove="Content\Ammunition\Pouches\EndlessMiniNukeIPouch.png" />
     <None Remove="Content\Ammunition\Pouches\EndlessRocketIIIPouch.png" />
     <None Remove="Content\Ammunition\Pouches\EndlessRocketIIPouch.png" />
     <None Remove="Content\Ammunition\Pouches\EndlessRocketIPouch.png" />
     <None Remove="Content\Ammunition\Pouches\EndlessRocketIPouchTEST.png" />
     <None Remove="Content\Ammunition\Pouches\EndlessRocketIVPouch.png" />
+    <None Remove="Content\Ammunition\Pouches\EndlessWaterRocketPouch.png" />
+    <None Remove="Content\Ammunition\Quivers\EndlessShimmerQuiver.png" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="tModLoader.CodeAssist" Version="0.1.*" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Content\Consumables\" />
   </ItemGroup>
 </Project>
