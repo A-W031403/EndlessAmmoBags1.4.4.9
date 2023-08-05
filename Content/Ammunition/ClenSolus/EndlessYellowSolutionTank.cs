@@ -20,10 +20,21 @@ namespace EndlessAmmoBags.Content.Ammunition.ClenSolus
             Item.width = 10;
             Item.height = 12;
             Item.ammo = AmmoID.Solution;
-            Item.shoot = ProjectileID.FairyGlowstick;
             Item.shootSpeed = 0f;
             Item.damage = -1;
             Item.knockBack = 0f;
+        }
+
+        public override void PickAmmo(Item weapon, Player player, ref int type, ref float speed, ref StatModifier damage, ref float knockback)
+        {
+            if (weapon.type == ItemID.Clentaminator)
+            {
+                type = ProjectileID.SandSpray;
+            }
+            else if (weapon.type == ItemID.Clentaminator2)
+            {
+                type = ProjectileID.SandSpray;
+            }
         }
 
         public override void AddRecipes()

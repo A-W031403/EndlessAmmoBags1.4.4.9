@@ -245,7 +245,7 @@ Items: {
 	EndlessRocketIPouch: {
 		Tooltip:
 			'''
-			Small; won't break tiles; Will not work with Celebration Mk. II
+			Small; won't break tiles
 			An endless pouch of rocket I's
 			'''
 		DisplayName: Endless Rocket I Pouch
@@ -254,7 +254,7 @@ Items: {
 	EndlessRocketIIPouch: {
 		Tooltip:
 			'''
-			Small; will break tiles; Will not work with Celebration Mk. II
+			Small; will break tiles
 			An endless pouch of rocket II's
 			         
 			'''
@@ -264,7 +264,7 @@ Items: {
 	EndlessRocketIIIPouch: {
 		Tooltip:
 			'''
-			Large; won't break tiles; Will not work with Celebration Mk. II
+			Large; won't break tiles
 			An endless pouch of rocket III's
 			         
 			'''
@@ -283,15 +283,10 @@ Items: {
 	EndlessRocketIVPouch: {
 		Tooltip:
 			'''
-			Large; will break tiles; Will not work with Celebration Mk. II
-			         An endless pouch of rocket IV's
+			Large; will break tiles
+			An endless pouch of rocket IV's
 			'''
 		DisplayName: Endless Rocket IV Pouch
-	}
-
-	EndlessRocketIPouchTEST: {
-		Tooltip: Don't use; testing for Celeb2 functionality
-		DisplayName: Endless TEST Pouch
 	}
 
 	EndlessClusterIPouch: {

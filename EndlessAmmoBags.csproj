@@ -47,7 +47,6 @@
     <None Remove="Content\Ammunition\Pouches\EndlessRocketIIIPouch.png" />
     <None Remove="Content\Ammunition\Pouches\EndlessRocketIIPouch.png" />
     <None Remove="Content\Ammunition\Pouches\EndlessRocketIPouch.png" />
-    <None Remove="Content\Ammunition\Pouches\EndlessRocketIPouchTEST.png" />
     <None Remove="Content\Ammunition\Pouches\EndlessRocketIVPouch.png" />
     <None Remove="Content\Ammunition\Pouches\EndlessWaterRocketPouch.png" />
     <None Remove="Content\Ammunition\Quivers\EndlessShimmerQuiver.png" />

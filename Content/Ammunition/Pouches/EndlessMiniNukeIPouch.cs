@@ -15,7 +15,6 @@ namespace EndlessAmmoBags.Content.Ammunition.Pouches
         public override void SetDefaults()
         {
             Item.shootSpeed = 0f;
-            Item.shoot = ProjectileID.SpiritFlame;
             Item.damage = 75;
             Item.width = 26;
             Item.height = 34;
@@ -24,6 +23,30 @@ namespace EndlessAmmoBags.Content.Ammunition.Pouches
             Item.DamageType = DamageClass.Ranged;
             Item.rare = ItemRarityID.Orange;
             Item.ammo = AmmoID.Rocket;
+        }
+
+        public override void PickAmmo(Item weapon, Player player, ref int type, ref float speed, ref StatModifier damage, ref float knockback)
+        {
+            if (weapon.type == ItemID.RocketLauncher)
+            {
+                type = ProjectileID.MiniNukeRocketI;
+            }
+            else if (weapon.type == ItemID.GrenadeLauncher)
+            {
+                type = ProjectileID.MiniNukeGrenadeI;
+            }
+            else if (weapon.type == ItemID.ProximityMineLauncher)
+            {
+                type = ProjectileID.MiniNukeMineI;
+            }
+            else if (weapon.type == ItemID.Celeb2)
+            {
+                type = ProjectileID.Celeb2RocketLarge;
+            }
+            else if (weapon.type == ItemID.SnowmanCannon)
+            {
+                type = ProjectileID.MiniNukeSnowmanRocketI;
+            }
         }
 
         public override void AddRecipes()

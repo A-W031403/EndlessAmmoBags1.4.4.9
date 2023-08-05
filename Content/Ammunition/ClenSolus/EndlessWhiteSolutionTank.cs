@@ -20,10 +20,21 @@ namespace EndlessAmmoBags.Content.Ammunition.ClenSolus
             Item.width = 26;
             Item.height = 34;
             Item.ammo = AmmoID.Solution;
-            Item.shoot = ProjectileID.HallowBossSplitShotCore;
             Item.shootSpeed = 0f;
             Item.damage = -1;
             Item.knockBack = 0f;
+        }
+
+        public override void PickAmmo(Item weapon, Player player, ref int type, ref float speed, ref StatModifier damage, ref float knockback)
+        {
+            if (weapon.type == ItemID.Clentaminator)
+            {
+                type = ProjectileID.SnowSpray;
+            }
+            else if (weapon.type == ItemID.Clentaminator2)
+            {
+                type = ProjectileID.SnowSpray;
+            }
         }
 
         public override void AddRecipes()
